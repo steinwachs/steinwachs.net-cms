@@ -24,6 +24,14 @@
       "title": "Simple Example for Nuxt Dynamic Routes",
       "subtitle": "Rapper buys crap",
       "permalink": "coolio-rapper"
+    },
+    {
+      "id": "4",
+      "date": "2018-11-11 17:00",
+      "author": "Andreas",
+      "title": "Test One Two Three",
+      "subtitle": "Rapper buys crap",
+      "permalink": "test"
     }
   ]
 }
