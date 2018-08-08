@@ -40,6 +40,14 @@
       "title": "Australians All Let Us Rejoice",
       "subtitle": "For we are young and free!",
       "permalink": "test-test"
+    },
+    {
+      "id": "6",
+      "date": "2077-11-11 17:00",
+      "author": "Andy",
+      "title": "Dummy Data",
+      "subtitle": "Test data is cool!",
+      "permalink": "test-cool"
     }
   ]
 }
