@@ -7,7 +7,8 @@
       "title": "Doo wah diddy",
       "subtitle": "diddy dum, diddy doo",
       "permalink": "doe-john-jane",
-      "thumbnail": "https://cdn.vuetifyjs.com/images/cards/desert.jpg"
+      "thumbnail": "https://cdn.vuetifyjs.com/images/cards/desert.jpg",
+      "tags": [ "doo", "diddy", "wah" ]
     },
     {
       "id": "2",
@@ -15,7 +16,8 @@
       "author": "Andreas",
       "title": "The Cow That Said Miaow",
       "subtitle": "Better than a dog that miaows",
-      "permalink": "cow-says-miaow"
+      "permalink": "cow-says-miaow",
+      "tags": [ "cow", "dog", "miaow" ]
     },
     {
       "id": "3",
@@ -23,7 +25,8 @@
       "author": "Andreas",
       "title": "Simple Example for Nuxt Dynamic Routes",
       "subtitle": "Rapper buys crap",
-      "permalink": "coolio-rapper"
+      "permalink": "coolio-rapper",
+      "tags": [ "nuxt", "test", "coolio" ]
     },
     {
       "id": "4",
@@ -31,7 +34,8 @@
       "author": "Andreas",
       "title": "Test One Two Three",
       "subtitle": "Rapper buys crap",
-      "permalink": "test"
+      "permalink": "test",
+      "tags": [ "test", "tester", "testest" ]
     },
     {
       "id": "5",
@@ -39,7 +43,8 @@
       "author": "Andy",
       "title": "Australians All Let Us Rejoice",
       "subtitle": "For we are young and free!",
-      "permalink": "test-test"
+      "permalink": "test-test",
+      "tags": [ "supertest", "taste", "taaahaaste" ]
     },
     {
       "id": "6",
@@ -47,7 +52,8 @@
       "author": "Andy",
       "title": "Dummy Data",
       "subtitle": "Test data is cool!",
-      "permalink": "test-cool"
+      "permalink": "test-cool",
+      "tags": [ "yeah-nah", "nah-year", "yup" ]
     }
   ]
 }
